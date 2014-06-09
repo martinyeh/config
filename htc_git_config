@@ -1,0 +1,5 @@
+Host stash git.sw.studio.htc.com
+HostName git.sw.studio.htc.com
+Port 7999
+User martin_yeh
+IdentityFile ~/.ssh/id_rsa
